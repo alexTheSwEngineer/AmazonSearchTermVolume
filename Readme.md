@@ -63,7 +63,7 @@ Lets check: "iphone charger"
  iphone cahrge  -> hit  
  iphone cahrg   -> hit  
  iphone cahr    -> hit   
-    iphone cah     -> hit  
+ iphone cah     -> hit  
  iphone ca      -> hit  
  iphone c       -> hit  
  iphone         -> hit  
